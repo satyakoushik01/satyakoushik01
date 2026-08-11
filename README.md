@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Satya Koushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack using Java**
+- 🌱 I’m currently learning **Full stack**
 
 - 📫 How to reach me **satyakoushik1@gmail.com**
 
